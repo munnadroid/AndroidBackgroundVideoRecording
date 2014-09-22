@@ -6,7 +6,7 @@ android {
     buildToolsVersion "20.0.0"
 
     defaultConfig {
-        applicationId "com.munnadroid.example.androidbackgroundvideorecording"
+        applicationId "com.munnadroid.backgroundrecord"
         minSdkVersion 9
         targetSdkVersion 15
     }
